@@ -8,3 +8,4 @@
 Joey-174/Joey-174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://github.com/Joey-174/Joey-174/assets/152669612/f7e54706-31f4-4763-959d-5d467ac00fea)
